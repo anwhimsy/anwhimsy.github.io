@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="https://anwhimsy.github.io/"/>
+  <link href="https://anwhimsy.github.io/blog/"/>
   <updated>2020-10-22T07:07:59.262Z</updated>
-  <id>https://anwhimsy.github.io/</id>
+  <id>https://anwhimsy.github.io/blog/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://anwhimsy.github.io/2020/10/22/hello-world/"/>
-    <id>https://anwhimsy.github.io/2020/10/22/hello-world/</id>
+    <link href="https://anwhimsy.github.io/blog/2020/10/22/hello-world/"/>
+    <id>https://anwhimsy.github.io/blog/2020/10/22/hello-world/</id>
     <published>2020-10-22T07:07:59.260Z</published>
     <updated>2020-10-22T07:07:59.262Z</updated>
     
